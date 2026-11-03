@@ -1,13 +1,10 @@
 #include <iostream>
-#include <vector>
 
-typedef std::string typeeverythingyouwant;
-typedef std::cout outputandshit;
-
+typedef std::string text_t;
 int main() {
 
-    typeeverythingyouwant text = "kaufe sie diese app für 19 Euro im Monat";
-    outputandshit << text;
-
+    text_t firstName = "Justus";
+    int age = 15;
+    std::cout << '\n' << "Hallo, ich heiße " << firstName << " und ich bin " << age << " Jahre alt." << '\n';
     return 0;
 }
