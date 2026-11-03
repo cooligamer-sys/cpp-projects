@@ -7,7 +7,7 @@
 ## 🇺🇸 English
 This repo is maintained solely by me. I created it just to share a few projects I thought were fun to share with everyone.<br>
 Feel free to share, clone, fork and edit your forks as you like, just maybe use the GNU General Public License, as I use it as well in my repo.<br>
-If you like the little projects of mine, I would make my day if you'd star this repo and maaaybe follow me to not miss out when I start other coding projects! :D<br>
+If you like the little projects of mine, it would genuinely make my day if you'd star this repo and maaaybe follow me to not miss out when I start other coding projects! :D<br>
 That's it from me, thanks for reading and have fun exploring my creations!
 ### Current Project: Learning C++ ([see here](https://github.com/cooligamer-sys/cpp-projects/tree/main/Learning%20C++))
 ## 🇩🇪 Deutsch
