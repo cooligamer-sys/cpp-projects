@@ -36,13 +36,9 @@ int main(){
     std::string name = "Daniel";
     std::string day = "Saturday";
     std::string favFood = "Mozarella Sticks";
-    std::string street = "Lüdersring 42";
-    std::string postalCode = "22547";
-    std::string city = "Hamburg";
-    std::string country = "Germany";
-    std::string continent = "Europe";
+    std::string street = "123 Example Street";
 
-    std::cout << "Hi, I'm " << name << " and my favorite day is " << day << " and my favorite food is " << favFood << ". I live at " << street << ", " << postalCode << " " << city << ", " << country << ", " << continent << ", Earth." << '\n';
+    std::cout << "Hi, I'm " << name << " and my favorite day is " << day << " and my favorite food is " << favFood << ". I live at " << street << '\n';
 
     return 0;
 }
