@@ -1,3 +1,9 @@
+/*
+    This file contains the use of namespaces and 
+    using for convenience.
+*/
+
+
 #include <iostream>
 
 namespace important{

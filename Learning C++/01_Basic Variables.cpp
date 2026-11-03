@@ -1,14 +1,18 @@
+/*
+    The basic variable types and how to use them.
+    This is the first file in this folder.
+*/
+
+
 #include <iostream>
 
 int main(){
 
-    // Fuck you. Why are you reading my code??
+    // Why are you reading my code??
 
     /*
         Really cool stuff
         right??
-        Fuck you
-        I hate myself so much
     */
 
     // integer (whole number)

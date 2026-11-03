@@ -1,3 +1,9 @@
+/*
+    This is a file containing constants and basic calculations
+    using doubles and variables
+*/
+
+
 #include <iostream>
 
 int main() {
